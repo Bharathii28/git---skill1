@@ -1,1 +1,2 @@
 This is Git practice file
+feature update added
